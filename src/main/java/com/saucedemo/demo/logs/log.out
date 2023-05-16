@@ -1,0 +1,28 @@
+2023-05-15 23:05:450 INFO  LoginPage :33 - Enter username : [[ChromeDriver: chrome on WINDOWS (8dab73c39462d52744673cc3113735c2)] -> xpath: //input[@name='user-name']]
+2023-05-15 23:05:564 INFO  LoginPage :40 - Enter password : [[ChromeDriver: chrome on WINDOWS (8dab73c39462d52744673cc3113735c2)] -> xpath: //input[@name='password']]<br>
+2023-05-15 23:05:700 INFO  LoginPage :47 - Click on login button : [[ChromeDriver: chrome on WINDOWS (8dab73c39462d52744673cc3113735c2)] -> xpath: //input[@id='login-button']]<br>
+2023-05-15 23:05:790 INFO  LoginPage :58 - Getting text from : [[ChromeDriver: chrome on WINDOWS (8dab73c39462d52744673cc3113735c2)] -> xpath: //span[@class='title']]
+2023-05-15 23:05:665 INFO  LoginPage :33 - Enter username : [[ChromeDriver: chrome on WINDOWS (282d6bc86dcfd7bb98a91cfb5cbf85a6)] -> xpath: //input[@name='user-name']]
+2023-05-15 23:05:745 INFO  LoginPage :40 - Enter password : [[ChromeDriver: chrome on WINDOWS (282d6bc86dcfd7bb98a91cfb5cbf85a6)] -> xpath: //input[@name='password']]<br>
+2023-05-15 23:05:863 INFO  LoginPage :47 - Click on login button : [[ChromeDriver: chrome on WINDOWS (282d6bc86dcfd7bb98a91cfb5cbf85a6)] -> xpath: //input[@id='login-button']]<br>
+2023-05-15 23:05:878 INFO  ProductsPage :20 - Verify Products : 
+2023-05-15 23:05:586 INFO  LoginPage :33 - Enter username : [[ChromeDriver: chrome on WINDOWS (7ec53f6821d914e47e334fca0cc6bdc0)] -> xpath: //input[@name='user-name']]
+2023-05-15 23:05:698 INFO  LoginPage :40 - Enter password : [[ChromeDriver: chrome on WINDOWS (7ec53f6821d914e47e334fca0cc6bdc0)] -> xpath: //input[@name='password']]<br>
+2023-05-15 23:05:876 INFO  LoginPage :47 - Click on login button : [[ChromeDriver: chrome on WINDOWS (7ec53f6821d914e47e334fca0cc6bdc0)] -> xpath: //input[@id='login-button']]<br>
+2023-05-15 23:05:896 INFO  ProductsPage :20 - Verify Products : 
+2023-05-15 23:05:283 INFO  LoginPage :33 - Enter username : [[ChromeDriver: chrome on WINDOWS (ae66352454f11b0a9a20af9689573f85)] -> xpath: //input[@name='user-name']]
+2023-05-15 23:05:421 INFO  LoginPage :40 - Enter password : [[ChromeDriver: chrome on WINDOWS (ae66352454f11b0a9a20af9689573f85)] -> xpath: //input[@name='password']]<br>
+2023-05-15 23:05:696 INFO  LoginPage :47 - Click on login button : [[ChromeDriver: chrome on WINDOWS (ae66352454f11b0a9a20af9689573f85)] -> xpath: //input[@id='login-button']]<br>
+2023-05-15 23:05:775 INFO  LoginPage :58 - Getting text from : [[ChromeDriver: chrome on WINDOWS (ae66352454f11b0a9a20af9689573f85)] -> xpath: //span[@class='title']]
+2023-05-15 23:05:222 INFO  LoginPage :33 - Enter username : [[ChromeDriver: chrome on WINDOWS (7a152288ffa2dfc451a4ebe471088dc5)] -> xpath: //input[@name='user-name']]
+2023-05-15 23:05:350 INFO  LoginPage :40 - Enter password : [[ChromeDriver: chrome on WINDOWS (7a152288ffa2dfc451a4ebe471088dc5)] -> xpath: //input[@name='password']]<br>
+2023-05-15 23:05:516 INFO  LoginPage :47 - Click on login button : [[ChromeDriver: chrome on WINDOWS (7a152288ffa2dfc451a4ebe471088dc5)] -> xpath: //input[@id='login-button']]<br>
+2023-05-15 23:05:557 INFO  ProductsPage :20 - Verify Products : 
+2023-05-15 23:05:83 INFO  LoginPage :33 - Enter username : [[ChromeDriver: chrome on WINDOWS (e0efe801f2a69b4a9c54412dda995e0b)] -> xpath: //input[@name='user-name']]
+2023-05-15 23:05:217 INFO  LoginPage :40 - Enter password : [[ChromeDriver: chrome on WINDOWS (e0efe801f2a69b4a9c54412dda995e0b)] -> xpath: //input[@name='password']]<br>
+2023-05-15 23:05:391 INFO  LoginPage :47 - Click on login button : [[ChromeDriver: chrome on WINDOWS (e0efe801f2a69b4a9c54412dda995e0b)] -> xpath: //input[@id='login-button']]<br>
+2023-05-15 23:05:460 INFO  LoginPage :58 - Getting text from : [[ChromeDriver: chrome on WINDOWS (e0efe801f2a69b4a9c54412dda995e0b)] -> xpath: //span[@class='title']]
+2023-05-15 23:05:451 INFO  LoginPage :33 - Enter username : [[ChromeDriver: chrome on WINDOWS (b4a50379a717d3f12934a4767da1f6f6)] -> xpath: //input[@name='user-name']]
+2023-05-15 23:05:600 INFO  LoginPage :40 - Enter password : [[ChromeDriver: chrome on WINDOWS (b4a50379a717d3f12934a4767da1f6f6)] -> xpath: //input[@name='password']]<br>
+2023-05-15 23:05:822 INFO  LoginPage :47 - Click on login button : [[ChromeDriver: chrome on WINDOWS (b4a50379a717d3f12934a4767da1f6f6)] -> xpath: //input[@id='login-button']]<br>
+2023-05-15 23:05:853 INFO  ProductsPage :20 - Verify Products : 
